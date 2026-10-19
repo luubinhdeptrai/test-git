@@ -1,1 +1,1 @@
-branch 2 of snapshot
+from branch XXX
